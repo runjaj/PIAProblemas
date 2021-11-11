@@ -6,6 +6,8 @@
 
 Un separador de discos se alimenta con una mezcla de avena (95 %) y suciedad con un caudal másico de 1500 kg/h. El separador logra que toda la avena salga por la salida de producto y retienen el 99 % de la suciedad. Durante la operación normal, la suciedad queda retenida en el separador. La capacidad de almacenamiento de suciedad es de 740 kg, ¿cada cuánto tiempo habrá que limpiar el separador de discos?
 
+**[Solución](/assets/notebooks-html/prob2-1.jl.html)**
+
 ### 2
 
 En una criba plana se están clasificando avellanas enteras y avellanas rotas. El caudal de alimentación de avellanas enteras es de 290 kg/h y el de avellanas rotas en la alimentación es de 110 kg/h. Se obtiene un producto con 240 kg/h de avellanas enteras y 18 kg/h de avellanas rotas. ¿Qué efectividad tiene este separador sabiendo que no se acumula nada de producto en el tamiz?
