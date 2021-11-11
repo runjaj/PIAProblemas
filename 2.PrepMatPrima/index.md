@@ -30,6 +30,8 @@ Datos: Densidad del agua = 1000 kg/m³. Densidad del aceite = 900 kg/m³
 
 Calcular la efectividad de la separación considerando que la centrífuga se alimenta con 100 kg/h de una mezcla con un 15 % de agua. Las corrientes de salida tienen una composición de un 99 % de aceite y de agua, respectivamente. Todas las composiciones son en peso.
 
+**[Solución](/assets/notebooks-html/prob2-5.jl.html)**
+
 ### 6
 
 La entrada de un separador de aceite y agua tiene una concentración de aceite de un 20% (v/v) con un caudal del 20 l/min y la salida de producto son 4.5 l/min con una concentración de aceite de 78%. Calcular la eficiencia de la separación.
