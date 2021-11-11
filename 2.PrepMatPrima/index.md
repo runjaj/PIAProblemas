@@ -12,6 +12,8 @@ Un separador de discos se alimenta con una mezcla de avena (95 %) y suciedad con
 
 En una criba plana se están clasificando avellanas enteras y avellanas rotas. El caudal de alimentación de avellanas enteras es de 290 kg/h y el de avellanas rotas en la alimentación es de 110 kg/h. Se obtiene un producto con 240 kg/h de avellanas enteras y 18 kg/h de avellanas rotas. ¿Qué efectividad tiene este separador sabiendo que no se acumula nada de producto en el tamiz?
 
+**[Solución](/assets/notebooks-html/prob2-2.jl.html)**
+
 ### 3
 
 Un clasificador óptico separa galletas rotas a la salida de un horno continuo. La alimentación al clasificador (F) es de 1200 kg/h, con un 5% de las galletas rotas. Sabiendo que la eficiencia del separador es de un 91.4 % y que el caudal del desperdicio es de 80 kg/h. ¿Cuál es la composición de corriente de producto y de residuo?
