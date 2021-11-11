@@ -18,6 +18,8 @@ En una criba plana se están clasificando avellanas enteras y avellanas rotas. E
 
 Un clasificador óptico separa galletas rotas a la salida de un horno continuo. La alimentación al clasificador (F) es de 1200 kg/h, con un 5% de las galletas rotas. Sabiendo que la eficiencia del separador es de un 91.4 % y que el caudal del desperdicio es de 80 kg/h. ¿Cuál es la composición de corriente de producto y de residuo?
 
+**[Solución](/assets/notebooks-html/prob2-3.jl.html)**
+
 ### 4
 
 En una instalación de producción de aceite de oliva se utiliza una centrífuga para purificar el aceite. Una corriente de agua (w) y aceite (o) de 600 l/h con una composición de un 70 % (v/v) de agua alimenta una centrífuga de la que se obtiene una corriente de aceite y una corriente de agua con un 2% (v/v) de aceite. Calcular la efectividad de la separación.
