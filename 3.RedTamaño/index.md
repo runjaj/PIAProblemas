@@ -6,6 +6,8 @@
 
 A partir de las medidas de un material de tamaño uniforme de un secador, se deduce que el área superficial del material es de 1200 m². Si la densidad del material es de 1450 kg/m³ y el peso total es de 360 kg, calcular el diámetro equivalente de las partícula si el valor de λ es 1.75. [[Earle](https://www.nzifst.org.nz/resources/unitoperations/sizereduction3.htm#problems)]
 
+**[Solución](/assets/notebooks-html/prob3-1.jl.html)**
+
 ### 2
 
 Calcular los factores de forma λ para los sistemas modelo en los que las partículas son:
