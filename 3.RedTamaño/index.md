@@ -14,6 +14,8 @@ Calcular los factores de forma λ para los sistemas modelo en los que las partí
 1. cilindros con _L = 2D_,
 2. tetraedros con los lados que son triángulos equiláteros
 3. Estimar el área superficial específica de un polvo consistente en los dos casos anteriores en los que hay 4·10³ partículas/kg. Los cilindros tienen una densidad de 1330 kg/m³ y los tetraedros una densidad de 1500 kg/m³. [[Earle](https://www.nzifst.org.nz/resources/unitoperations/sizereduction3.htm#problems)]
+
+**[Solución](/assets/notebooks-html/prob3-2.jl.html)**
  
 ### 3
 
