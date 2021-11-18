@@ -24,6 +24,8 @@ Se determina que la energía requerida para reducir partículas de un diámetro 
 2. la ley de Rittinger
 3. La ecuación de Bond [[Earle](https://www.nzifst.org.nz/resources/unitoperations/sizereduction3.htm#problems)]
 
+**[Solución](/assets/notebooks-html/prob3-3.jl.html)**
+
 ### 4
 
 Se sospecha que para un producto de interés las reacciones de oxidación, que crean olores extraños, son reacciones superficiales que suceden a una velocidad que es uniforme con el tiempo y que la vida útil del producto se relaciona directamente con el porcentaje de aromas extraños producidos. Estimar el porcentaje de reducción de vida útil como consecuencia de las reducciones de tamaño del problema anterior, es decir, de 1 cm a 0.3 cm y de 0.1 cm a 0.01 cm de diámetro, asumiendo λ = 1.5. [[Earle](https://www.nzifst.org.nz/resources/unitoperations/sizereduction3.htm#problems)]
