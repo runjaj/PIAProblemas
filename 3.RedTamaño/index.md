@@ -30,11 +30,15 @@ Se determina que la energía requerida para reducir partículas de un diámetro 
 
 Se sospecha que para un producto de interés las reacciones de oxidación, que crean olores extraños, son reacciones superficiales que suceden a una velocidad que es uniforme con el tiempo y que la vida útil del producto se relaciona directamente con el porcentaje de aromas extraños producidos. Estimar el porcentaje de reducción de vida útil como consecuencia de las reducciones de tamaño del problema anterior, es decir, de 1 cm a 0.3 cm y de 0.1 cm a 0.01 cm de diámetro, asumiendo λ = 1.5. [[Earle](https://www.nzifst.org.nz/resources/unitoperations/sizereduction3.htm#problems)]
 
+**[Solución](/assets/notebooks-html/prob3-4.jl.html)**
+
 ### 5
 
 Se desea reducir la tiempo de separación de la leche en un mínimo de una semana (antes de que la crema ascienda a la superficie), ¿cuál es el diámetro máximo que deben tener los glóbulos de crema tras su homogeneización, según la ley de Stoke, para que esto suceda? Suponer una profundidad de 10 cm.
 
 Datos: Viscosidad de la leche: 3 mPa·s, densidad de la leche desnatada: 1.036 g/cm³, densidad de la crema: 1.008 g/cm³. [[Earle](https://www.nzifst.org.nz/resources/unitoperations/sizereduction3.htm#problems)]
+
+**[Solución](/assets/notebooks-html/prob3-5.jl.html)**
 
 ### 6
 
