@@ -14,6 +14,8 @@ Se realiza un ensayo con un filtro para vino y se encuentra que el caudal del fi
 
 Un filtro para clarificar vino permite un caudal de filtrado de 500 l/h al operar con una presión diferencial de 220 kPa. Se quieren filtrar 1200 l de vino con el doble de turbidez, si se desea completar la filtración en un ciclo de 1 h, ¿qué presión se debería aplicar?
 
+**[Solución](/assets/notebooks-html/prob5-2.jl.html)**
+
 ### Centrifugación
 
 #### 3
