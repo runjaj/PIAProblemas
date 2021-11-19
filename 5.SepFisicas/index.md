@@ -8,6 +8,8 @@
 
 Se realiza un ensayo con un filtro para vino y se encuentra que el caudal del filtrado es de 450 kg/h para una diferencia de presión constante de 350 kPa. El filtro tiene un área total de 0.82 m². Asumir que la resistencia del filtro no se ve afectada por la cantidad de torta. Se añade otro filtro de 6.5 m², ¿qué presión se requeriría para obtener 500 hl en un turno de 8 horas de la planta combinada? Determinar primero R, la resistencia y, a continuación, la presión diferencial. Asumir que la densidad del vino es 1000 kg/m³. [[Earle](https://www.nzifst.org.nz/resources/unitoperations/mechseparation7.htm#problems)]
 
+**[Solución](/assets/notebooks-html/prob5-1.jl.html)**
+
 #### 2
 
 Un filtro para clarificar vino permite un caudal de filtrado de 500 l/h al operar con una presión diferencial de 220 kPa. Se quieren filtrar 1200 l de vino con el doble de turbidez, si se desea completar la filtración en un ciclo de 1 h, ¿qué presión se debería aplicar?
