@@ -32,6 +32,8 @@ Se separa una emulsión aceite/agua con glóbulos de 5 µm en aceite y agua, ¿q
 
 Datos: Densidad del aceite: 900 kg/m³. [[Earle](https://www.nzifst.org.nz/resources/unitoperations/mechseparation7.htm#problems)]
 
+**[Solución](/assets/notebooks-html/prob5-4.jl.html)**
+
 ### Concentración por membranas
 
 #### 5
