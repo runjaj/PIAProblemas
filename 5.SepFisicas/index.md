@@ -24,6 +24,8 @@ En una pequeña centrífuga con un radio efectivo de trabajo de 9 cm, se desea u
 
 Si el bowl de la centrífuga tiene un radio mínimo de 8 cm y un radio máximo de 9 cm, ¿cuál es la razón de la fuerza centrífuga entre el radio mínimo y máximo? [[Earle](https://www.nzifst.org.nz/resources/unitoperations/mechseparation7.htm#problems)]
 
+**[Solución](/assets/notebooks-html/prob5-3.jl.html)**
+
 #### 4
 
 Se separa una emulsión aceite/agua con glóbulos de 5 µm en aceite y agua, ¿qué velocidad (rpm) se necesitaría si el radio de operación de la centrífuga es de 5 cm? Asumir que los glóbulos deben desplazarse 3 cm y que este movimiento se debe realizar en 1 s para que la centrífuga pueda operar en continuo dadas las condiciones de producción.
