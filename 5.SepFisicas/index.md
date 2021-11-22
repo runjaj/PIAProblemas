@@ -40,6 +40,8 @@ Datos: Densidad del aceite: 900 kg/m³. [[Earle](https://www.nzifst.org.nz/resou
 
 Calcular la presión osmótica a 20 ºC de una solución de sacarosa en agua que contiene un 20 % en peso de sacarosa. La densidad de esta solución es de 1081 kg/m³. (Peso molecular sacarosa: 342.3 g/mol.) [[Earle](https://www.nzifst.org.nz/resources/unitoperations/conteqseparation13.htm#problems)]
 
+**[Solución](/assets/notebooks-html/prob5-5.jl.html)**
+
 #### 6
 
 En una planta de ultrafiltración de 7:1 de proteína respecto a lactosa, la capacidad de la planta es de 570 kg m⁻² h⁻¹ de leche desnatada. Calcular la capacidad de la planta en una relación de 2:1. [[Earle](https://www.nzifst.org.nz/resources/unitoperations/conteqseparation13.htm#problems)]
