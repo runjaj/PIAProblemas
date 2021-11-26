@@ -21,6 +21,8 @@ Un mezclador de líquidos con un agitador de hélice de 0.3 m de diámetro gira 
 2. Calcular la potencia a la que trabaja el equipo para agitar aceite de oliva.
 
 Datos: Viscosidad del agua = 1 mPa.s, densidad del agua = 1000 kg/m³. Viscosidad del aceite = 80 mPa.s, densidad del aceite = 914 kg/m³. [[Earle](https://www.nzifst.org.nz/resources/unitoperations/mixing6.htm#problems)]
+
+**[Solución](/assets/notebooks-html/prob4-2.jl.html)**
     
 ### 3
 
