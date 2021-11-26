@@ -26,9 +26,11 @@ Datos: Viscosidad del agua = 1 mPa.s, densidad del agua = 1000 kg/m³. Viscosida
     
 ### 3
 
-Un agitador de hélice (agitador 6 de la figura) con un diámetro de 40 cm se utiliza para mezclar agua (μ = 1 cP). ¿A qué potencia debe trabajar el agitador para girar a 200 rpm?
+Un agitador de hélice (agitador 1 de la figura) con un diámetro de 40 cm se utiliza para mezclar agua (μ = 1 cP). ¿A qué potencia debe trabajar el agitador para girar a 200 rpm?
 
 ![](prob4-3.png)
+
+**[Solución](/assets/notebooks-html/prob4-3.jl.html)**
     
 ### 4
 
