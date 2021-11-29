@@ -40,12 +40,14 @@ Tiempo | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
 -------|---|---|---|---|---|---|---|---|---|----
 1 min  |0.21|0.32|0.46|0.17|0.89|1.00|0.98|0.23|0.10|0.14
 1.5 min |0.85|0.80|0.62|0.78|0.75|0.39|0.84|0.96|0.58|0.47
-10 min |0.72|0.69|0.71|0.70|0.68|0.71|0.70|0.72|0.70|0
+10 min |0.72|0.69|0.71|0.70|0.68|0.71|0.70|0.72|0.70|0.7
 
 Calcular:
 1. La desviación estándar de la mezcla para cada uno de los tiempos.
 2. Seleccionar y calcular uno de los índices de mezclado.
-3. Calcular la desviación estándar de la mezcla tras 6 min de operación. En este caso, se considerará una "mezcla perfecta", la que tenga $s_\infty$ = 0.01. [Fellows]
+3. Calcular la desviación estándar de la mezcla tras 6 min de operación. En este caso, se considerará una "mezcla perfecta", la que tenga $s_\infty$ = 0.001. [Fellows]
+
+**[Solución](/assets/notebooks-html/prob4-4.jl.html)**
 
 ### 4
 
