@@ -59,3 +59,5 @@ Se quiere mezclar un concentrado vitamínico con melazas espesas, habiéndose en
 
 Datos:
 Melaza: µ = 6.6 N s m⁻², ρ = 1520 kg m⁻³. Mezclador: _k_ = 41, _n_ = -1
+
+**[Solución](/assets/notebooks-html/prob4-5.jl.html)**
