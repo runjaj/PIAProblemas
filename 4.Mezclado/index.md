@@ -49,7 +49,7 @@ Calcular:
 
 **[Solución](/assets/notebooks-html/prob4-4.jl.html)**
 
-### 4
+### 5
 
 Se quiere mezclar un concentrado vitamínico con melazas espesas, habiéndose encontrado que se obtienen velocidades de mezclado aceptables con un depósito pequeño de 0.67 m de diámetro y altura 0.75 m con un mezclador de 0.33 m de diámetro girando a 450 rpm. Se ha diseñado una instalación mayor, que precisa de un depósito de 2 m de diámetro.
 
