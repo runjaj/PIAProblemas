@@ -195,11 +195,11 @@ El sr. Barrufet te ha contratado como estudiante en prácticas (ya que así le s
 
 Tras estudiar el problema le dices a tu jefe:
 
-    i)  el producto es asqueroso (esto, en realidad, no lo dices solo lo piensas)
+1. el producto es asqueroso (esto, en realidad, no lo dices solo lo piensas)
     
-    ii)  no estás de acuerdo con que lo mejor sea realizar la operación a baja temperatura 
+2. no estás de acuerdo con que lo mejor sea realizar la operación a baja temperatura 
     
-    iii)  lo mejor sería comprar un equipo de esterilización en continuo UHT de las siguientes características:
+3. lo mejor sería comprar un equipo de esterilización en continuo UHT de las siguientes características:
         
 *Calentamiento:*
 
@@ -221,7 +221,7 @@ Tiempo (s)|Temperatura (°C)
 0.1|127
 0.2|114
 0.3|106
-0.3|94
+0.4|94
 
 Una vez realizada ya solo quedaría el realizar un envasado aséptico.
 
@@ -238,6 +238,8 @@ DATOS:
 - El procesado busca lograr 12 reducciones decimales de un microorganismo con _z_ = 8.7 °C y _D₁₂₁_ = 2.3 min.
 
 - La musculina tiene un _D₁₂₁_ = 0.7 min y una _z_ = 50 °C.
+
+**[Solución](/assets/notebooks-html/prob8-07.jl.html)**
 
 ### 8
 
