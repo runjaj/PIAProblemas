@@ -144,7 +144,7 @@ Contestar a las siguientes preguntas:
    
 4. Exponer alguna hipótesis alternativa que pueda explicar las diferencias que encuentra las señora A.
 
-### 5.
+### 5
 
 Eres el técnico de producción de FETGESA, famosa por sus patés de todo tipo, comercializados en envases de lata de 50 y 850 g. Con intención de ajustar el funcionamiento de uno de los sistemas de esterilización en una línea de producción, encargaste a un laboratorio externo unas pruebas de destrucción térmica del microorganismo más termoresistente presente en una serie de muestras del producto. El laboratorio te había proporcionado todas las características de los parámetros de termoresistencia, pero desgraciadamente un técnico del laboratorio ha derramado ácido sulfúrico concentrado sobre el informe, que se ha desintegrado a excepción del fragmento siguiente, que has podido recuperar:
 
@@ -309,19 +309,21 @@ Con objeto de reducir el riesgo microbiano se esteriliza el producto en envases 
 
 Responder de manera justificada a las siguientes preguntas:
 
-1. Demostrar mediante cálculos que el microorganismo A es el más resistente a la temperatura de tratamiento en el autoclave (115 °C)
+1. Demostrar mediante cálculos que el microorganismo B es el más resistente a la temperatura de tratamiento en el autoclave (115 °C)
 
 2. ¿Qué tiempo hay que programar en el autoclave para que se cumplan los objetivos de esterilización?
 
 3. Si se decidiese realizar un tratamiento en continuo UHT (etapas de calentamiento y enfriamiento despreciables) a 125 °C, ¿cuál sería el tiempo de tratamiento? ¿El microorganismo A continúa siendo el más termorresistente?
 
-4. ¿Cuál será la concentración de microorganismos tras el tratamiento? Explicar el significado de este dato
+4. A 125°C, ¿el microorganismo B continúa siendo el más termorresistente?
+
+5. ¿Cuál será la concentración de microorganismos tras el tratamiento? Explicar el significado de este dato
 
 ### 11
 
 En una empresa productora de alimento para animales de compañía tienen que diseñar el proceso de esterilización del producto. Se trata de un alimento con consistencia de paté. Se dispone de datos de termorresistencia del microorganismo objetivo:
 
-T (°C)\\t (min) | 114 | 117 | 120
+t (min)\\T (°C) | 114 | 117 | 120
 ----------------|-----|-----|--------
 0 | 1.0E+06 | 1.0E+06 | 1.0E+06
 4 | 5.8E+05 | 1.8E+05 | 5.2E+03
@@ -449,4 +451,4 @@ Se procesa térmicamente un alimento. El objetivo es lograr 8 reducciones decim
 
 1. ¿Cuánto debe durar la etapa de mantenimiento para lograr el objetivo del tratamiento?
 2. ¿Qué valores tienen la pendiente de calentamiento y de enfriamiento para el procesado de la pregunta anterior?
-3. El alimento procesado en la pregunta 8. se envasa en envases de tipo bag in box de 50 l. Si la contaminación inicial del microorganismo es de 100 ufc/ml, ¿qué proporción de envases tendrán problemas de conservación? ¿Cómo se relaciona este resultado con el concepto de esterilidad comercial?
+3. El alimento procesado se envasa en envases de tipo bag in box de 50 l. Si la contaminación inicial del microorganismo es de 100 ufc/ml, ¿qué proporción de envases tendrán problemas de conservación? ¿Cómo se relaciona este resultado con el concepto de esterilidad comercial?
