@@ -156,14 +156,16 @@ Contestar a las siguientes preguntas:
 
 Eres el técnico de producción de FETGESA, famosa por sus patés de todo tipo, comercializados en envases de lata de 50 y 850 g. Con intención de ajustar el funcionamiento de uno de los sistemas de esterilización en una línea de producción, encargaste a un laboratorio externo unas pruebas de destrucción térmica del microorganismo más termoresistente presente en una serie de muestras del producto. El laboratorio te había proporcionado todas las características de los parámetros de termoresistencia, pero desgraciadamente un técnico del laboratorio ha derramado ácido sulfúrico concentrado sobre el informe, que se ha desintegrado a excepción del fragmento siguiente, que has podido recuperar:
 
-```
+---
 Fecha: 4 de octubre
 Muestra: Proporcionada por FETGESA (ref. 37/22)
 
 Resultados
-D₁₁₀ = 36.5  min	D₁₁₈ = 8.5 min		D₁₂₇ = 96 s
+D₁₁₀ = 36.5  min;	D₁₁₈ = 8.5 min;		D₁₂₇ = 96 s
+
 Nota: Temperaturas en °C
-```
+
+---
 
 En este momento llega un analista del laboratorio de la propia fábrica, con un informe sobre la contaminación inicial de la pasta de paté, que da 10 ufc/g.
 
