@@ -110,20 +110,27 @@ Situación | Presión (mbar) | T ebullición del agua (°C)
 Anticiclón|  1030          | 100.4
 Normal    |  1013          | 100.0
 Borrasca  |  960.          | 98.5
+
 Contenido de la Transparencia 1:
 
-```    
+---    
 Función T/t en calentamiento/enfriamiento:
-T = Ti + f·t
-T: Temperatura (°C)
-Ti: Temperatura inicial
-f: constante (10 °C para calentamiento, -15 °C para enfriamiento)
-t: tiempo (min)
-```
+
+$$T = T_i + f t$$
+    
+$T$: Temperatura (°C)
+    
+$T_i$: Temperatura inicial
+    
+$f$: constante (10 °C para calentamiento, -15 °C para enfriamiento)
+    
+$t$: tiempo (min)
+
+---
 
 Contenido de la Transparencia 2:
 
-```
+---
 Microorganismo de referencia
 Población en ufc/100 ml
 
@@ -132,7 +139,8 @@ t (min) \ T (°C) | 95      | 100     | 105
 0                | 1000000 | 1000000 | 1000000
 15               | 816000  | 580000  | 250000
 30               | 666000  | 345000  | 63000
-``` 
+
+---
 
 Contestar a las siguientes preguntas:
         
