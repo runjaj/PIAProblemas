@@ -3,6 +3,14 @@
 
 # Problemas PIA
 
+## Problemas para casa
+
+• [Problema *Filtración*](/assets/notebooks-html/prob_filtrado.jl.html)
+
+• [Problema *Esterilización térmica 1*](/assets/notebooks-html/prob_estterm_1.jl.html)
+
+## Colección de problemas
+
 [2. Preparación de materia prima](2.PrepMatPrima)
 
 [3. Reducción de tamaño](3.RedTamaño)
