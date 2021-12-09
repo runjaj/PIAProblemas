@@ -188,7 +188,7 @@ Características de uso del modelo RIMMER (establecidas para envases de 850 g; e
   La curva de penetración de calor t/T se ajusta a la siguiente fórmula empírica
   (válida para 45 °C < T < 155 °C; T en °C, t en minutos):
       
-  $$T = 127.65(1-\exp(-0.8(t+0.7838)))$$
+  $$T = 127.65(1-\exp(-1.4(t+0.7838)))$$
 
 - Fase de enfriamiento: Las pruebas realizadas comenzando a 125 °C dan la siguiente relación t/T:
 
