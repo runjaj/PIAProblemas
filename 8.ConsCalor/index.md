@@ -179,19 +179,23 @@ FETGESA acaba de vender su antiguo autoclave discontinuo que tenía para los env
 
 Efectivamente, miras el catálogo de la empresa suministradora y te das cuenta de que son diferentes, ya que sus características son las que se exponen en el siguiente fragmento del catálogo:
 
-```
+---
 AUTOCLAX, S.A.
+
 Características de uso del modelo RIMMER (establecidas para envases de 850 g; ensayo con paté)
 
 - Fase de calentamiento: se logra pasar de 60 °C a 125 °C en 4 minutos.
   La curva de penetración de calor t/T se ajusta a la siguiente fórmula empírica
   (válida para 45 °C < T < 155 °C; T en °C, t en minutos):
-  T = 127.65(1-exp(-0.8(t+0.7838)))
+      
+  $$T = 127.65(1-\exp(-0.8(t+0.7838)))$$
 
 - Fase de enfriamiento: Las pruebas realizadas comenzando a 125 °C dan la siguiente relación t/T:
-  t (min)   1	2	3	4	5	6
-  T (°C)	105	90	80	72	64	60
-```
+
+  t (min)|   1	|2	|3	|4	|5	|6
+  -------|------|---|---|---|---|---
+  T (°C)|	105	|90	|80	|72	|64	|60
+---
 
 Si las temperaturas inicial y final y la de la fase de mantenimiento del producto, son las mismas que se utilizaban con el autoclave anterior, determinar el tiempo que debe durar ahora la fase de mantenimiento para que el tratamiento térmico sea equivalente.
 
