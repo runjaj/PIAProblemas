@@ -199,7 +199,7 @@ Características de uso del modelo RIMMER (establecidas para envases de 850 g; e
 
 Si las temperaturas inicial y final y la de la fase de mantenimiento del producto, son las mismas que se utilizaban con el autoclave anterior, determinar el tiempo que debe durar ahora la fase de mantenimiento para que el tratamiento térmico sea equivalente.
 
-Nota: Todas las temperaturas son referidas al punto crítico del envase. El microorganismo de referencia es el mismo que en el problema anterior.
+Nota: Todas las temperaturas son referidas al punto crítico del envase. Microorganismo de referencia: $D_{121}$ = 1.3 min y $z$ = 8 °C.
 
 ### 7
 
