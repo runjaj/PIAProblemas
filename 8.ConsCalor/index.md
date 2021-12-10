@@ -190,7 +190,7 @@ Características de uso del modelo RIMMER (establecidas para envases de 850 g; e
 
 - Fase de calentamiento: Tiene una duración de 4 minutos. La curva de penetración de calor t/T se ajusta a la siguiente fórmula empírica (válida para 45 °C < T < 155 °C; T en °C, t en minutos):
       
-    $$T = 127.65(1-\exp(-1.4(t+0.7838)))$$
+    $$T = 127.65(1-\exp(-0.9(t+0.7838)))$$
 
 - Fase de enfriamiento: Una vez finalizada la etapa de mantenimiento, la etapa de enfriamiento muestra la siguiente relación t/T:
 
@@ -202,6 +202,8 @@ Características de uso del modelo RIMMER (establecidas para envases de 850 g; e
 Determinar el tiempo que debe durar la fase de mantenimiento en el nuevo autoclave para que el tratamiento térmico sea equivalente.
 
 Nota: Todas las temperaturas son referidas al punto crítico del envase. Microorganismo de referencia: $D_{121}$ = 3.9 min y $z$ = 8 °C.
+
+**[Solución](/assets/notebooks-html/prob8-06.jl.html)**
 
 ### 7
 
