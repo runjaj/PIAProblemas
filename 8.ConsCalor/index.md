@@ -337,6 +337,8 @@ Responder de manera justificada a las siguientes preguntas:
 
 5. ¿Cuál será la concentración de microorganismos tras el tratamiento? Explicar el significado de este dato
 
+**[Solución](/assets/notebooks-html/prob8-10.jl.html)**
+
 ### 11
 
 En una empresa productora de alimento para animales de compañía tienen que diseñar el proceso de esterilización del producto. Se trata de un alimento con consistencia de paté. Se dispone de datos de termorresistencia del microorganismo objetivo:

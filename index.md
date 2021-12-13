@@ -9,6 +9,8 @@
 
 • [Problema *Esterilización térmica 1*](/assets/notebooks-html/prob_estterm_1.jl.html)
 
+• [Problema *Esterilización térmica 2*](/assets/notebooks-html/prob8-10.jl.html)
+
 ## Colección de problemas
 
 [2. Preparación de materia prima](2.PrepMatPrima)
