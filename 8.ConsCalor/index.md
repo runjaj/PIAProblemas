@@ -470,3 +470,85 @@ Se procesa térmicamente un alimento. El objetivo es lograr 8 reducciones decim
 1. ¿Cuánto debe durar la etapa de mantenimiento para lograr el objetivo del tratamiento?
 2. ¿Qué valores tienen la pendiente de calentamiento y de enfriamiento para el procesado de la pregunta anterior?
 3. El alimento procesado se envasa en envases de tipo bag in box de 50 l. Si la contaminación inicial del microorganismo es de 100 ufc/ml, ¿qué proporción de envases tendrán problemas de conservación? ¿Cómo se relaciona este resultado con el concepto de esterilidad comercial?
+
+### 17
+
+La leche se puede procesar mediante los siguientes procesos: pasteurización, UHT directa o indirecta o esterilización térmica del producto envasado. Cada uno de los procesos presenta el siguiente perfil de temperatura:
+
+Pasteurización:
+
+| t (s) | T (°C) |
+|-------|--------|
+| 0     | 5.0    |
+| 35    | 72.0   |
+| 55    | 72.0   |
+| 85    | 6.0    |
+
+UHT directo:
+
+| t (s) | T (°C) |
+|-------|--------|
+| 0     | 5.0    |
+| 10    | 80.0   |
+| 10    | 140.0  |
+| 15    | 140.0  |
+| 15    | 80.0   |
+| 45    | 20.0.  |
+
+UHT indirecto:
+
+| t (s) | T (°C) |
+|-------|--------|
+| 0     | 5.0    |
+| 45    | 140.0  |
+| 50    | 140.0  |
+| 120   | 20.0   |
+
+Esterilización de producto envasado:
+
+| t (min) | T (ºC) |
+|---------|--------|
+| 0.0	  | 5      |
+| 1.0	  | 44     |
+| 2.0	  | 77.5   |
+| 3.0	  | 90.7   |
+| 4.0	  | 99     |
+| 5.0	  | 106    |
+| 6.0	  | 110    |
+| 7.0	  | 113    |
+| 8.0	  | 115    |
+| 9.0	  | 117.7  |
+| 10.0	  | 119    |
+| 11.0	  | 120.7  |
+| 12.0	  | 121.5  |
+| 13.0	  | 122    |
+| 14.0	  | 122    |
+| 15.0	  | 122    |
+| 16.0	  | 122    |
+| 17.0	  | 122    |
+| 18.7	  | 122    |
+| 19.0	  | 122.0  |
+| 21.3	  | 109.5  |
+| 22.0	  | 103.5  |
+| 23.2	  | 95.0   |
+| 24.8	  | 84.0   |
+| 27.7	  | 60.0   |
+| 30.0	  | 20.0   |
+
+Estudiar el efecto de los diferentes tratamientos sobre los siguientes microorganismos y compuestos:
+
+| Objetivo                   | T (°C) | $D_T$ (s) | z (°C) |
+|----------------------------|--------|-----------|--------|
+| _Bacillus cereus_          | 121.1  | 310       | 9.7    |
+| _Pseudomonas caryophylli_  | 73.7   | 0.4       | 8.7    | 
+| Fosfatasa alcalina         | 72     | 8         | 5      |
+| Tiamina (vit. B₁)          | 121.1  | 12650     | 25     |
+| Ác. ascórbico (vit. C)     | 121.1  | 150000    | 51     |
+
+Contestar a las siguientes preguntas:
+
+1. ¿Son los tres tratamientos iguales desde el punto de vista de seguridad alimentaria? Evaluar el impacto sobre los dos microorganismos de la tabla.
+
+2. ¿Qué tratamientos tienen un mayor impacto sobre la calidad del producto? 
+
+3. ¿Es razonable utilizar la fosfatasa alcalina para verificar el tratamiento térmico de la leche?
