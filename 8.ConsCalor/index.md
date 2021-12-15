@@ -1,6 +1,6 @@
 @def title = "8. Conservación por calor"
 @def hasmath = true
-
+@@no-number
 ## 8 Conservación por calor
 
 ### 1
@@ -495,7 +495,7 @@ UHT directo:
 | 10    | 140.0  |
 | 15    | 140.0  |
 | 15    | 80.0   |
-| 45    | 20.0.  |
+| 45    | 20.0   |
 
 UHT indirecto:
 
@@ -549,8 +549,9 @@ Estudiar el efecto de los diferentes tratamientos sobre los siguientes microorga
 
 Contestar a las siguientes preguntas:
 
-1. ¿Son los tres tratamientos iguales desde el punto de vista de seguridad alimentaria? Evaluar el impacto sobre los dos microorganismos de la tabla.
+1. ¿Son los cuatro tratamientos iguales desde el punto de vista de seguridad alimentaria? Evaluar el impacto sobre los dos microorganismos de la tabla.
 
-2. ¿Qué tratamientos tienen un mayor impacto sobre la calidad del producto? 
+2. ¿Qué tratamiento tienen un mayor impacto sobre la calidad del producto? 
 
 3. ¿Es razonable utilizar la fosfatasa alcalina para verificar el tratamiento térmico de la leche?
+@@
