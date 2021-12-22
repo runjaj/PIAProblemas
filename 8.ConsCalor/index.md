@@ -554,4 +554,8 @@ Contestar a las siguientes preguntas:
 2. ¿Qué tratamiento tienen un mayor impacto sobre la calidad del producto? 
 
 3. ¿Es razonable utilizar la fosfatasa alcalina para verificar el tratamiento térmico de la leche?
+
+NOTA: Suponer que todas las etapas son a temperatura constante o de calentamiento o enfriamiento lineal.
+
+**[Solución](/assets/notebooks-html/prob8-17.jl.html)**
 @@
