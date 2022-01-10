@@ -375,7 +375,7 @@ t (min) | T (°C)
 
 Contestar a las siguientes preguntas:
 
-1. Demostrar que para el microorganismo a tratar _z_ = 6 °C y $D_{121}$ = 0.5 min
+1. Demostrar que para el microorganismo a tratar _z_ = 6 °C y $D_{121}$ = 1.2 min
 2. Calcular el tiempo (real) de la etapa de mantenimiento
 3. ¿Dónde se encuentra el punto crítico de esta conserva?
 4. ¿Se puede tratar este producto en una instalación en continuo? Si es así, describir dicho equipo
