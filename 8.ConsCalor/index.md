@@ -380,6 +380,8 @@ Contestar a las siguientes preguntas:
 3. ¿Dónde se encuentra el punto crítico de esta conserva?
 4. ¿Se puede tratar este producto en una instalación en continuo? Si es así, describir dicho equipo
 
+**[Solución](/assets/notebooks-html/prob8-11.jl.html)**
+
 ### 12
 
 El sr. Barrufet te ha contratado para diseñar el proceso productivo de su nueva planta de elaboración de ovoproductos. El principal producto a obtener en esta línea de procesado es huevo entero pasteurizado. A partir de tus estudios de Microbiología de alimentos y de Procesado de alimentos sabes que el objetivo de pasteurización es lograr 9 reducciones decimales (9D) del microorganismo patógeno _Salmonella senftenberg_ y que el tratamiento habitual consiste en someter el producto a un tratamiento a 64.5 °C durante dos minutos y medio. En un libro encuentras que la termoresistencia para este microorganismo es:
